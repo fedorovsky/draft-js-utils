@@ -15,6 +15,7 @@ export const BLOCK_TYPE = {
   PULLQUOTE: 'pullquote',
   CODE: 'code-block',
   ATOMIC: 'atomic',
+  SPOILER: 'spoiler',
 };
 
 export const ENTITY_TYPE = {
